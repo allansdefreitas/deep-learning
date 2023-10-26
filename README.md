@@ -1,7 +1,7 @@
 # Machine Learning
 
 #### Involves: Machine Learning, Deep Learning, Computer Vision, Image Processing
-Python has its own repo, available at:
+Python has its own repo, available at: https://github.com/allansdefreitas/python
 
 <div align="left">
   <img width="400px" src="https://www.tensorflow.org/images/tf_logo_horizontal.png">
