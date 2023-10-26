@@ -1,4 +1,4 @@
-# Deep Learning
+# Machine Learning & Deep Learning
 
 
 <div align="left">
