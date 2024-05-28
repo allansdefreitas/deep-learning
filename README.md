@@ -1,6 +1,6 @@
-# Machine Learning
+# Deep Learning
 
-#### Involves: Machine Learning, Deep Learning, Computer Vision, Image Processing
+#### Involves: Machine Learning & Deep Learning, Computer Vision, Image Processing
 Python has its own repo, available at: https://github.com/allansdefreitas/python
 
 <div align="left">
